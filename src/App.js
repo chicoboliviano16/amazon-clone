@@ -3,8 +3,10 @@ import "./App.css";
 
 function App() {
   return (
+    //BEM
     <div className="App">
-      <h1>Hello0o thereee</h1>
+      <h1>Hello0o thereee programes lets buuild the amazon store!!! :rocket</h1>
+      {/* header */}
     </div>
   );
 }
